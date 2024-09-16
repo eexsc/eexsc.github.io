@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eexsc.github.io/ejj/sitemap.ejj.gz
